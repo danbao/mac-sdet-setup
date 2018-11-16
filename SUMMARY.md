@@ -10,6 +10,5 @@
    * [Cask](Homebrew/Cask.md)
 * [Git](Git/README.md)
    * [Git ignore](Git/gitignore.md)
-* [MySql](MySql/README.md)
 * [Node.js](Node.js/README.md)
 * [Apps](Apps/README.md)
