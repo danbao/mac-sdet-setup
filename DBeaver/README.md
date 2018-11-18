@@ -12,7 +12,7 @@
 
 ## 配置jdbc driver 来连接Oracle数据库
 
-先去下载 [Oracle Database JDBC driver](https://www.oracle.com/technetwork/database/application-development/jdbc/downloads/index.html）
+先去下载 [Oracle Database JDBC driver](https://www.oracle.com/technetwork/database/application-development/jdbc/downloads/index.html)
 
 然后在`iTerm`执行以下命令
 
