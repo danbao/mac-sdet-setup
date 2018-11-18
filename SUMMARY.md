@@ -11,4 +11,5 @@
 * [Git](Git/README.md)
    * [Git ignore](Git/gitignore.md)
 * [Node.js](Node.js/README.md)
+* [DBeaver](DBeaver/README.md)
 * [Apps](Apps/README.md)
