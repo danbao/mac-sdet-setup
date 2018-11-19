@@ -17,23 +17,10 @@
 
 ### Productivity
 - [LastPass](https://helpdesk.lastpass.com/zh/mac-app/) : 跨平台的密码管理工具
-
-- [CleanMyMacX](https://dl.devmate.com/com.macpaw.CleanMyMac4/CleanMyMacX.dmg): 应用程序清理卸载工具
-
+- [AppCleaner](https://freemacsoft.net/appcleaner/): 应用程序清理卸载工具(付费)
 - [Dropbox](https://www.dropbox.com/): 文件同步工具
-
 - [印象笔记](https://itunes.apple.com/cn/app/id1356055347)：笔记工具
-
 - [Spectacle](http://spectacleapp.com/) : 让窗口成比例的显示，在写代码调试的时候很方便
-
 - [Keka](https://www.keka.io/zh-cn/): 支持多种格式（包括 windows下的格式）的压缩/解压缩工具
-
 - [OminiFocus](https://www.omnigroup.com/omnifocus) ：时间管理工具
-
 - [CheatSheet](http://www.grandtotal.biz/CheatSheet/) : 长按 `command` ，将能查看当前程序的快捷键
-
-- [Sip] 取色器
-
-- [MindeNode] 思维导图
-
-- [xScope] 测量工具
