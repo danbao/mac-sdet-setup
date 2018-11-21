@@ -17,7 +17,7 @@
     $ brew doctor
 ```
 
-由于国内的网络比较渣，所以建议吧Homebrew Bottles源地址设置到[国内镜像源](https://lug.ustc.edu.cn/wiki/mirrors/help/homebrew-bottles)
+由于国内的网络问题，建议把Homebrew Bottles源地址设置到[国内镜像源](https://lug.ustc.edu.cn/wiki/mirrors/help/homebrew-bottles)
 
 ```bash
     echo 'export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles' >> ~/.zshrc

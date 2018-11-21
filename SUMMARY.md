@@ -14,3 +14,4 @@
 * [DBeaver](DBeaver/README.md)
 * [P4Merge](P4Merge/README.md)
 * [Apps](Apps/README.md)
+  * [Settings](Apps/Settings.md)
