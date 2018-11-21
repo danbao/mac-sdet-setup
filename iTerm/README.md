@@ -8,4 +8,4 @@
 
 - 下载 [Solarized dark iterm colors](https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized)，在 Profiles -> Default -> Colors -> Load Presets 将其导入，作为默认颜色。
 - 在 Profiles -> Text 改变游标（cursor）文字和颜色，随个人喜好。
-- 更多设置，可参考 [打造好用的终端](http://imwuyu.me/talk-about/cool-iterm2.html/)
+- 更多设置，可参考 [Mac终端配置，DIY你的Terminal （iTerm 2 + Oh My Zsh）](https://segmentfault.com/a/1190000012786464)
