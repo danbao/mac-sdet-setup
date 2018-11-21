@@ -17,6 +17,7 @@
 
 ### Productivity
 - [LastPass](https://helpdesk.lastpass.com/zh/mac-app/) : 跨平台的密码管理工具
+- [Spark](https://sparkmailapp.com/) : The best personal email client, 没有Outlook的替代方案.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) : 应用程序清理卸载工具
 - [Dropbox](https://www.dropbox.com/) : 文件同步工具
 - [印象笔记](https://itunes.apple.com/cn/app/id1356055347): 笔记工具
