@@ -23,5 +23,4 @@
 - [印象笔记](https://itunes.apple.com/cn/app/id1356055347): 笔记工具
 - [Spectacle](http://spectacleapp.com/) : 让窗口成比例的显示，在写代码调试的时候很方便
 - [Keka](https://www.keka.io/zh-cn/): 支持多种格式（包括 windows下的格式）的压缩/解压缩工具
-- [OminiFocus](https://www.omnigroup.com/omnifocus) : 时间管理工具
 - [CheatSheet](http://www.grandtotal.biz/CheatSheet/) : 长按 `command` ，将能查看当前程序的快捷键
