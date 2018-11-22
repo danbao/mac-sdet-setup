@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [System Preferences](SystemPreferences/README.md)
 * [XCode](XCode/README.md)
-* [iTerm2](iTerm/README.md)
+* [iTerm2](iTerm2/README.md)
   * [ZSH](iTerm/zsh.md)
 * [Homebrew](Homebrew/README.md)
   * [Usage](Homebrew/Usage.md)
