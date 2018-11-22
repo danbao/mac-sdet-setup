@@ -2,12 +2,13 @@
 
 作为一名开发者，我们常常需要连接管理数据库。这些数据库类型类型众多，形式多样。为了方便管理这些数据库我们选择DBeaver， 它是一个通用的数据库管理工具和 SQL 客户端，支持 MySQL, PostgreSQL, Oracle, DB2, MSSQL, Sybase, Mimer, HSQLDB, Derby, 以及其他兼容 JDBC 的数据库。
 
-先去[官网](https://dbeaver.io/download/)下载 **DBeaver Community**版，下载完成后将 **DBeaver** 拖拽进入 Application 文件夹中。然后，你可以在 **Launchpad** 中启动 DBeaver。
+## 安装
+先去[官网](https://dbeaver.io/download/)下载 **DBeaver Community**版，下载完成后将 `DBeaver` 拖拽进入 `Application` 文件夹中。
 
 或者选择使用`brew cask`安装
 
 ```bash
-    $ brew cask install dbeaver-community
+    brew cask install dbeaver-community
 ```
 
 ## 配置jdbc driver 来连接Oracle数据库
@@ -17,19 +18,19 @@
 然后在`iTerm`执行以下命令
 
 ```bash
-    $ cd ~/.dbeaver-drivers/
-    $ tar -zxvf ~/Downloads/ojdbc8-full.tar.gz
-    $ cd ojdbc8-full
-    $ pwd
-    $ ls -la
+    cd ~/.dbeaver-drivers/
+    tar -zxvf ~/Downloads/ojdbc8-full.tar.gz
+    cd ojdbc8-full
+    pwd
+    ls -la
 ```
 
 显示的结果如下
 
 ```bash
-➜  ojdbc8-full pwd
+ $ pwd
 /Users/hello/.dbeaver-drivers/ojdbc8-full
-➜  ojdbc8-full ls -la
+ $ ls -la
 total 16640
 drwx------@ 13 hello  staff      416 Aug 21 04:29 .
 drwxr-xr-x   3 hello  staff       96 Nov 18 13:53 ..
@@ -47,6 +48,7 @@ drwxr-xr-x   3 hello  staff       96 Nov 18 13:53 ..
 ```
 
 接着在`${HOME}/.dbeaver4/.metadata/.plugins/org.jkiss.dbeaver.core/drivers.xml`文件中写入以下内容（如文件不存在，则新建一个）
+
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <drivers>
